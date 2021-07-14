@@ -8,7 +8,7 @@
      'sequence': -1,
      'website': 'https://www.facebook.com/fasilwdr/',
      'summary': """
-             Designed by Fasil""",
+             Create POS Orders from Backend""",
      'description': """
              
          """,
