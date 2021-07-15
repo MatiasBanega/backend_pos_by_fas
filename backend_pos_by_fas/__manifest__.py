@@ -24,6 +24,7 @@
      'version': '0.1',
      'sequence': -1,
      'website': 'https://www.facebook.com/fasilwdr/',
+     'license': 'LGPL-3',
      'summary': """
              Create POS Orders from Backend""",
      'description': """
